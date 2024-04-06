@@ -1,7 +1,6 @@
 # Almabetter-Flashcard-Generator 
-# Group Project 
-
-# Team Members :- 1] Tushar Sonavane 2] Shubham Aagawane 3] Rushikesh Waghmare
+# Individual Project 
+# Name- Mohan Jeevanrao Ghogarkar
                   
 
 This is a Flashcard Generator frontend capston project that Almabetter has provided.
@@ -15,6 +14,7 @@ Visit my website for a flashcard maker by clicking the link.
 
 
 ## Watch Explanation video  
+
 - [video link]- https://drive.google.com/file/d/1-2f56HA0AUzmxkDWrbS3RVTSFT7tx4bi/view?usp=sharing
 
 ## Run Locally
