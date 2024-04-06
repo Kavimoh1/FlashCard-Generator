@@ -9,7 +9,7 @@ This is a Flashcard Generator frontend capston project that Almabetter has provi
 Visit my website for a flashcard maker by clicking the link.
 
 
-  https://melodious-platypus-b73981.netlify.app/
+ https://flashcard-mohan.netlify.app/
 
 
 
